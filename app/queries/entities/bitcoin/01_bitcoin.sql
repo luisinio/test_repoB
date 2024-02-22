@@ -1,2 +1,3 @@
 --ocio demo
 --actualizando bitcoin
+--query actualizada
