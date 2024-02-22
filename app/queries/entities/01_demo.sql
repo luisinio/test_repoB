@@ -9,3 +9,4 @@
 --demo
 --demo
 --demo
+--demo script hook
