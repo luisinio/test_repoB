@@ -10,3 +10,4 @@
 --demo
 --demo
 --demo script hook
+--test
